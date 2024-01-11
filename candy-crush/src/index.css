@@ -8,6 +8,7 @@
   height: 560px;
   display: flex;
   flex-wrap: wrap;
+  display: none;
 }
 
 .game img {
